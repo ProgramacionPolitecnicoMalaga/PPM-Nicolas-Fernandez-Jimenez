@@ -1,9 +1,4 @@
-import java.util.Scanner;
-
 public class Interfaz {
-    public int opcion = 0;
-    public int numeroItems = 0;
-    Scanner lectorTeclado = new Scanner(System.in);
 
     public void opciones() {
 
@@ -27,7 +22,7 @@ public class Interfaz {
     }
 
     public void mayorVentasDiarias() {
-        System.out.println("El vendedor que más ventas ha realizado hoy es: ");
+        System.out.print("El vendedor que más ventas ha realizado hoy es ");
     }
 
     public void nombreEmpleado() {

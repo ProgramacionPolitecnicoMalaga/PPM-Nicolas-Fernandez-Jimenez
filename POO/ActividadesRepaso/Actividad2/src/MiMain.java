@@ -43,8 +43,10 @@ public class MiMain {
                     break;
                 case 3:
                     if (comercial1.ventasDiarias() > comercial2.ventasDiarias()) {
+                        interfaz.mayorVentasDiarias();
                         System.out.println(comercial1.toString() + " habiendo realizado " + comercial1.ventasDiarias() + " ventas");
                     } else {
+                        interfaz.mayorVentasDiarias();
                         System.out.println(comercial2.toString() + " habiendo realizado " + comercial2.ventasDiarias() + " ventas");
                     }
                     System.out.println("==========================================================");
