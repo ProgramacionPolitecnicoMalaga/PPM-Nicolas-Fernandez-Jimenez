@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d927b39d-19d1-4f92-a01b-ab69326412ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Usuarios@89.40.115.56" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Usuarios@89.40.115.56" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Usuarios@89.40.115.56" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Usuarios: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Usuarios@89.40.115.56" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Usuarios: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Credenciales: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqKPZkzVTV8mzpdbZljzY1YkAI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ProgramacionPolitecnicoMalaga/PPM-Mario-Munoz-Serrano-master/ActividadFinal2Trimestre" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.politecnicomalaga.App" />
+      <module name="ActividadFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.politecnicomalaga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d927b39d-19d1-4f92-a01b-ab69326412ff" name="Default Changelist" comment="" />
+      <created>1585561166192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585561166192</updated>
+      <workItem from="1585561180308" duration="3682000" />
+      <workItem from="1585565468170" duration="4555000" />
+      <workItem from="1585643710281" duration="8360000" />
+      <workItem from="1585670610525" duration="7133000" />
+      <workItem from="1585733137194" duration="10147000" />
+      <workItem from="1585818373936" duration="11658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="92" key="#Project_Structure" timestamp="1585565866272">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="391" y="92" key="#Project_Structure/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585565866272" />
+    <state x="529" y="188" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585830587228">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="529" y="188" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585830587228" />
+    <state x="384" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585819923467">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="-384" y="-714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.868/-590.-768.1024.738@-590.-768.1024.738" timestamp="1585566849431" />
+    <state x="384" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585819923467" />
+    <state x="573" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585564968490">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="573" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585564968490" />
+    <state x="604" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1585825441760">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="604" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585825441760" />
+    <state x="102" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585829072670">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="102" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585829072670" />
+    <state x="526" y="106" key="EnvironmentVariablesDialog" timestamp="1585819910086">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="526" y="106" key="EnvironmentVariablesDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585819910086" />
+    <state x="579" y="188" key="FileChooserDialogImpl" timestamp="1585651614840">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="579" y="188" key="FileChooserDialogImpl/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585651614840" />
+    <state width="1555" height="224" key="GridCell.Tab.0.bottom" timestamp="1585830659442">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1555" height="224" key="GridCell.Tab.0.bottom/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585830659442" />
+    <state width="1555" height="224" key="GridCell.Tab.0.center" timestamp="1585830659442">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1555" height="224" key="GridCell.Tab.0.center/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585830659442" />
+    <state width="1555" height="224" key="GridCell.Tab.0.left" timestamp="1585830659442">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1555" height="224" key="GridCell.Tab.0.left/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585830659442" />
+    <state width="1555" height="224" key="GridCell.Tab.0.right" timestamp="1585830659442">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="1555" height="224" key="GridCell.Tab.0.right/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585830659442" />
+    <state width="194" height="463" key="HiddenNamespacesPopup" timestamp="1585562077581">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state width="194" height="463" key="HiddenNamespacesPopup/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585562077581" />
+    <state x="329" y="88" key="Maven.ArtifactSearchDialog" timestamp="1585676892203">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="329" y="88" key="Maven.ArtifactSearchDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585676892203" />
+    <state x="279" y="8" key="SettingsEditor" timestamp="1585681156961">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="279" y="8" key="SettingsEditor/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585681156960" />
+    <state x="515" y="75" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585735277003">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="515" y="75" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585735277003" />
+    <state x="657" y="180" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1585650921670">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="657" y="180" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585650921670" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1585568811812">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="456" y="197" key="run.anything.popup/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585568811812" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1585829506223">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.868/-590.-768.1024.738@0.0.1600.868" timestamp="1585829506223" />
+  </component>
+</project>
